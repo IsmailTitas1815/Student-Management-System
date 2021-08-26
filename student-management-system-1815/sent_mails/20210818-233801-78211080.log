@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: staff2@gmail.com
+Date: Wed, 18 Aug 2021 17:38:01 -0000
+Message-ID: <162930828186.17376.1121022522654339799@Titas.domain.name>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/Mw/arlobd-a99218f5796dbd3f1a104b5a8a66749a/
+
+Your username, in case you’ve forgotten: staff2
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
